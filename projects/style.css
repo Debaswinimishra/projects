@@ -1,0 +1,149 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+h2 {
+    margin-left: 40px;
+}
+
+h1 {
+    margin-left: 40px;
+}
+
+.nav-item {
+    margin-right: 25px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover {
+    color: white;
+}
+
+
+.itm {
+    display: none;
+}
+
+.container1 {
+    background-color: rgb(239, 245, 245);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.row .container1 {
+    padding-left: 0PX;
+}
+
+#main {
+    margin-left: 40px;
+}
+
+.btn {
+    margin-left: 40px;
+}
+
+.name {
+    margin-top: 60px;
+    margin-left: 40px;
+    font-size: 50px;
+    font-family: fantasy;
+
+}
+
+
+/*text annomation
+
+.wrapper {
+    display: inline-flex;
+}
+
+.wrapper .static-txt {
+    color: #fff;
+    margin-left: 30px;
+    font-size: 60px;
+}
+
+.wrapper .dynamic-txts {
+    margin-left: 15px;
+    height: 70px;
+    line-height: 70px;
+    overflow: hidden;
+}
+
+.dynamic-txts li {
+    color: pink;
+    list-style: none;
+    font-size: 60px;
+    position: relative;
+    top: 0;
+    animation: slide 6s steps(4) infinite;
+}
+
+@keyframes slide {
+    100% {
+        top: -290px;
+    }
+}
+
+.dynamic-txts li span {
+    position: relative;
+}
+
+.dynamic-txts li span::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: salmon;
+    border-left: 2px solid pink;
+    animation: typing 1.5s steps(10) infinite;
+}
+
+@keyframes typing {
+    100% {
+        left: 100%;
+        margin: 0 -35px 0 35px;
+    }
+}*/
+
+
+/*about part*/
+
+.abt {
+    margin-top: 15%;
+    letter-spacing: 5px;
+    font-family: fantasy;
+}
+
+.first {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.second {}
+
+
+
+
+
+/*footer part*/
+
+.copy {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.icon {
+    margin-left: 73%;
+    margin-top: 20px;
+}
+
+.prt {
+    margin-top: 15%;
+    letter-spacing: 5px;
+    font-family: fantasy;
+}
